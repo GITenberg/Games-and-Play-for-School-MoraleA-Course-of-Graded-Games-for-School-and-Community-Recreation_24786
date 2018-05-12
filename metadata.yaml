@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26730'
     url: http://www.gutenberg.org/2009/agents/26730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24786#Games-and-Play-for-School-MoraleA-Course-of-Graded-Games-for-School-and-Community-Recreation
 gutenberg_issued: '2008-03-08'
 gutenberg_type: Text
 identifiers:
